@@ -18,7 +18,7 @@
 "Key Type"=>"Тип на Ключ",
 "Label"=>"Етикет",
 "Language"=>"Език",
-"Language Support"=>"Поддръжка на язик",
+"Language Support"=>"Поддръжка на език",
 "Locale"=>"Локализация",
 "Locales file saved"=>"Файл локализации записани",
 "Menu Icon"=>"Иконка на меню",
