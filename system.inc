@@ -56,7 +56,7 @@
 "Tabbed Box View"=>"Табулиран изглед",
 "This will delete all data associated with the module!"=>"Това ще изтрие всичката дата свързана с този модул!",
 "Time Format"=>"Формат на времето",
-"Translation Management"=>"Настройки на Переводи",
+"Translation Management"=>"Настройки на Преводи",
 "Unknown Command"=>"Няма Такава Команда",
 "User Interface Style"=>"Стил на Потребителския Интерфейс",
 "User Preferences"=>"Потребителски Настройки",
