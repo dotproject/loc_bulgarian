@@ -8,6 +8,7 @@
 "Export vCard for"=>"Изведи vCard за ",
 "Fetch vCard(s) File"=>"Вземи vCard фаила",
 "Import vCard"=>"Въведи vCard",
+"Job Title"=>"Длъжност",
 "Reset search"=>"Изчисти търсене",
 "Search for"=>"Търси",
 "contactIdError"=>"Невалидни данни за контакт са подадени на функцията",
