@@ -27,4 +27,5 @@
 "inserted"=>"добавено",
 "new company"=>"нова компания",
 "new contact"=>"нов контакт",
+"new project"=>"нов проект",
 "view this company"=>"виж компания",
