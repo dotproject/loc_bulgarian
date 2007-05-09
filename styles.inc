@@ -1,6 +1,6 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
-"classic"=>"Класически стил dotProject",
-"default"=>"Изчистен стил",
-"demo1"=>"Демо стил",
+"classic"=>"РљР»Р°СЃРёС‡РµСЃРєРё СЃС‚РёР» dotProject",
+"default"=>"РР·С‡РёСЃС‚РµРЅ СЃС‚РёР»",
+"demo1"=>"Р”РµРјРѕ СЃС‚РёР»",

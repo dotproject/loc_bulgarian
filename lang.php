@@ -11,5 +11,5 @@
 
 $dir = basename(dirname(__FILE__));
 
-$LANGUAGES['bg_BG'] = array ( $dir, 'Bulgarian', 'âßÌÇÁÒÓËÉ', '');
+$LANGUAGES['bg_BG'] = array ( $dir, 'Bulgarian', 'Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸', '');
 ?>
